@@ -113,3 +113,12 @@ span{
 .giuu{
     padding-top: 10px;
 }
+.col:hover .second{
+    display: inline-block;
+}
+.col:hover .first{
+    display: none;
+}
+.second{
+    display: none;
+}
