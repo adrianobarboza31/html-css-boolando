@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    
+    color: white;
+    background-color: #FF6900;
+}
+nav{
+    width: 1400px;
+    margin: auto;
+    min-height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid 2px black;
+}
+div.logo>img{
+  width: 140px;  
+}
+.flex-ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+.centro{
+    padding: 0 5px;
+}
