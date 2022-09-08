@@ -127,3 +127,10 @@ span{
 .second{
     display: none;
 }
+li:hover {
+    text-decoration: underline;
+}
+.cuore:hover{
+    color: red;
+    cursor: pointer;
+}
